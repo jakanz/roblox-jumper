@@ -7,4 +7,4 @@ if KeyDown
 	SendInput {Space down}
 else
 	SendInput {Space up}
-Return
+return
