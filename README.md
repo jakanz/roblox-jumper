@@ -1,5 +1,5 @@
 # roblox-jumper
-A basic AutoHotkey script designed to virtually hold the spacebar down, repeatedly jumping to avoid **[AFK kicks in Roblox](https://developer.roblox.com/en-us/api-reference/event/Player/Idled)**.
+A basic AutoHotkey script designed to virtually hold the spacebar down to avoid **[AFK kicks in Roblox](https://developer.roblox.com/en-us/api-reference/event/Player/Idled)**.
 
 ## Starting off
 This script utilizes AutoHotkey, so you must install this program for this script to be used correctly. You can download the latest version of AutoHotkey **[directly from their home page](https://www.autohotkey.com)**. You can visit their **[alternate downloads page](https://www.autohotkey.com/download)** to download an earlier version as well.
