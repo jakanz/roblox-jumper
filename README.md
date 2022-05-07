@@ -12,7 +12,7 @@ Utilizing the script is pretty basic -- once AutoHotkey has finished installing,
 ### Remapping the script hotkey
 Say you don't want to use the F1 key to start the script. That's okay, because you are able to remap the script to another key! To do so, simply right-click the file, (if on Windows 11, click "Show more options"), click "Edit Script," and choose the text editor of your choice. Usually, all AutoHotkey files (.ahk) are readable by any editor.
 
-Here, you can change the hotkey used for the script to anything of your choice. Simply type any character and it will function as intended, just with a different starting gun. **Try keeping the asterisk before the hotkey assignment!** This isn't crucial to the function of the script, however it's recommended. You can view the [syntax for hotkeys in AutoHotkey's official documentation](https://www.autohotkey.com/docs/Hotkeys.htm#Symbols).
+Here, you can change the hotkey used for the script to anything of your choice. Simply type any character and it will function as intended, just with a different starting gun. **Try keeping the asterisk before the hotkey assignment!** This isn't crucial to the function of the script, however it's recommended. You can view the [syntax for hotkeys in AutoHotkey's official documentation](https://www.autohotkey.com/docs/Hotkeys.htm#Symbols) for as to why.
 
 ## Enjoy the script!
 I hope you enjoy this script as much as I do. So simple yet so practical. Now you can use your phone without leaning it against your spacebar!
