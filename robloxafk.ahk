@@ -2,9 +2,12 @@ SetWorkingDir %A_ScriptDir%
 #SingleInstance force
 
 *F1::
-KeyDown := !KeyDown
-if KeyDown
-	SendInput {Space down}
+toggle := !toggle
+if toggle
+	SetTimer, jump, 10
 else
-	SendInput {Space up}
+	SetTimer, jump, Off
+return
+jump:
+	Send, {Space}
 return
